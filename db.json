@@ -1,1 +1,113 @@
+[{
+  "id": 1,
+  "company": "Jiexin Electronics",
+  "updatedness": 95,
+  "credibility": "Diamond",
+  "stock": 5000,
+  "date": "27 Jun 2016",
+  "location": "ShenZhen, China",
+  "part": "SM320F281GHHMEP",
+  "manufacturer": "TI"
+},
+{
+  "id": 2,
+  "company": "Rays Electronics",
+  "updatedness": 90,
+  "credibility": "Diamond",
+  "stock": 4200,
+  "date": "27 Jun 2016",
+  "location": "Texas, USA",
+  "part": "SM320F281GHHMEP",
+  "manufacturer": "TI"
+},
+{
+  "id": 3,
+  "company": "Trutronics",
+  "updatedness": 85,
+  "credibility": "Patinum",
+  "stock": 15000,
+  "date": "27 Jun 2016",
+  "location": "California, USA",
+  "part": "SM320F281GHHMEP",
+  "manufacturer": "TI"
+},
+{
+  "id": 4,
+  "company": "Dianxin Technology",
+  "updatedness": 80,
+  "credibility": "Diamond",
+  "stock": 3000,
+  "date": "27 Jun 2016",
+  "location": "ShenZhen, China",
+  "part": "SN74LV1T34DCKR",
+  "manufacturer": "RENESAS"
+},
+{
+  "id": 5,
+  "company": "Hongchangwei Electronics",
+  "updatedness": 90,
+  "credibility": "Diamond",
+  "stock": 4390,
+  "date": "27 Jun 2016",
+  "location": "ShenZhen, China",
+  "part": "SN74LV1T34DCKR",
+  "manufacturer": "RENESAS"
+},
+{
+  "id": 6,
+  "company": "Shunle Technology",
+  "updatedness": 40,
+  "credibility": "Bronze",
+  "stock": 500,
+  "date": "27 Jun 2016",
+  "location": "ShenZhen, China",
+  "part": "SM320F281GHHMEP",
+  "manufacturer": "TI"
+},
+{
+  "id": 7,
+  "company": "Faxxic Electronics",
+  "updatedness": 60,
+  "credibility": "Platinum",
+  "stock": 9800,
+  "date": "27 Jun 2016",
+  "location": "Wisconsin, USA",
+  "part": "LM358",
+  "manufacturer": "SKHYNIX"
+},
+{
+  "id": 8,
+  "company": "Xindatong Technology",
+  "updatedness": 75,
+  "credibility": "Diamond",
+  "stock": 18900,
+  "date": "27 Jun 2016",
+  "location": "ShenZhen, China",
+  "part": "LM358",
+  "manufacturer": "SKHYNIX"
+},
+{
+  "id": 9,
+  "company": "Smith",
+  "updatedness": 95,
+  "credibility": "Premium",
+  "stock": 3200,
+  "date": "27 Jun 2016",
+  "location": "New york, USA",
+  "part": "SM320F281GHHMEP",
+  "manufacturer": "TI"
+},
+{
+  "id": 10,
+  "company": "Bungie Electronics",
+  "updatedness": 60,
+  "credibility": "Diamond",
+  "stock": 1200,
+  "date": "27 Jun 2014",
+  "location": "Texas, USA",
+  "part": "LM358",
+  "manufacturer": "SKHYNIX"
+}
+]
+
 
